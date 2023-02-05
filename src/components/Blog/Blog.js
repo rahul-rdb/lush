@@ -38,7 +38,7 @@ const Blog = () => {
       <div className="blog-header">Interesting blog to read</div>
       <div className="blog">
         {blogData.map((b) => (
-          <Card style={{ width: "25rem", border: "none", margin: "2rem" }}>
+          <Card style={{ width: "25rem", border: "none", margin: "2rem",height:"42rem" }}>
             <Card.Img variant="top" src={b.image} />
             <Card.Body>
               <Card.Title
