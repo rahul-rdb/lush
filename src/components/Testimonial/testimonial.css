@@ -1,12 +1,13 @@
+.test-wrapper {
+  padding: 3rem 0rem;
+  background-color: #f5f5f5;
+  width: 100%;
+}
+
 .name-wrapper {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-}
-
-.test-wrapper {
-  padding: 3rem 0rem;
-  background-color: #f5f5f5;
 }
 
 .test {
