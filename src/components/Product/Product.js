@@ -57,7 +57,7 @@ const Product = () => {
             <div>
               <Card
                 style={{
-                  width: "24rem",
+                  width: "22rem",
                   background: "#ffffff",
                   border: "1px solid rgba(0, 0, 0, 0.03)",
                   boxShadow: "10px 10px 20px rgba(0, 0, 0, 0.02)",
