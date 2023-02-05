@@ -46,22 +46,39 @@ const Hero = () => {
                 About Us
               </NavLink>
             </Link>
-            <NavLink
-              className={({ isActive }) =>
-                `${isActive ? "activeNavlink" : "navLink"}`
-              }
-              to={"/planters"}
+            <Link
+              className="a"
+              to="product"
+              spy={true}
+              smooth={true}
+              duration={400}
+              offset={-150}
             >
-              Planters
-            </NavLink>
-            <NavLink
-              className={({ isActive }) =>
-                ` ${isActive ? "activeNavlink" : "navLink"}`
-              }
-              to={"/contact"}
+              <NavLink
+                className={({ isActive }) =>
+                  `${isActive ? "activeNavlink" : "navLink"}`
+                }
+                to={"/planters"}
+              >
+                Planters
+              </NavLink>
+            </Link>
+            <Link
+              className="a"
+              to="footer"
+              spy={true}
+              smooth={true}
+              duration={300}
             >
-              Contact
-            </NavLink>
+              <NavLink
+                className={({ isActive }) =>
+                  ` ${isActive ? "activeNavlink" : "navLink"}`
+                }
+                to={"/contact"}
+              >
+                Contact
+              </NavLink>
+            </Link>
             <button className="call-button">Call Us</button>
           </div>
         </div>
