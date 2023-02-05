@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lush/static/css/main.56458fa3.css",
+    "main.js": "/lush/static/js/main.6915159d.js",
+    "static/media/heroImg.png": "/lush/static/media/heroImg.9f87476fc31ce08f3af7.png",
+    "static/media/cta.png": "/lush/static/media/cta.d1712a662ca79bf79c72.png",
+    "static/media/benefit1.png": "/lush/static/media/benefit1.983f55d85685ef150cf3.png",
+    "static/media/gallery1.png": "/lush/static/media/gallery1.b43d126a7a494eece159.png",
+    "static/media/gallery5.png": "/lush/static/media/gallery5.e229030607ad6d2275c2.png",
+    "static/media/gallery2.png": "/lush/static/media/gallery2.7d09ca7e18a40b43a97c.png",
+    "static/media/blog1.png": "/lush/static/media/blog1.607687e67e072a269c16.png",
+    "static/media/blog2.png": "/lush/static/media/blog2.eaf5ab95be2a5017b8c5.png",
+    "static/media/gallery3.png": "/lush/static/media/gallery3.0e08848333da9878165f.png",
+    "static/media/gallery4.png": "/lush/static/media/gallery4.4e9f635d0599364d2598.png",
+    "static/media/blog3.png": "/lush/static/media/blog3.7bce0e138ef425d087f0.png",
+    "index.html": "/lush/index.html",
+    "main.56458fa3.css.map": "/lush/static/css/main.56458fa3.css.map",
+    "main.6915159d.js.map": "/lush/static/js/main.6915159d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56458fa3.css",
+    "static/js/main.6915159d.js"
+  ]
+}
